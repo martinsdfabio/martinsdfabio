@@ -4,8 +4,9 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=martinsdfabio&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="Fabio Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsdfabio&layout=compact&hide_border=true&&theme=github_dark" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsdfabio&layout=compact&hide_border=true&theme=github_dark" />
 </div>
+
 <br>
 <h3 align="center">Sobre mim</h3>
 </br>
